@@ -1,5 +1,5 @@
 Autor: Marcel I. Bilanovic
-Nazov: Vystavba dialnic v Slovenskej Republike
+Nazov: Vystavba dialnic v Slovenskej Republike verzia 2
 Datum: 29.5.2020
 ----
 Tento text predstavuje UVOD clanku. Bude hned pod styrmi pomlckami
